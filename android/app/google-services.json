@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064313305642",
+    "project_id": "games-ad414",
+    "storage_bucket": "games-ad414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064313305642:android:c86f1ce9d9d1f2f71ee153",
+        "android_client_info": {
+          "package_name": "com.example.fluttergames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064313305642-2kka6sbi3rlgj5l1olnrg0q9eufmnrk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVrBOoNo-jDimMSDx4s_wS_kJ1UuFtyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064313305642-2kka6sbi3rlgj5l1olnrg0q9eufmnrk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
